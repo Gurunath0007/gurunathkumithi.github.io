@@ -1,6 +1,6 @@
 # Gurunath Kumithi – Portfolio Website
 
-![Portfolio cover](https://gurunath0007.github.io/og-image.jpg)
+![Portfolio cover](image.png)
 
 **Live Site:** [https://gurunath0007.github.io/](https://gurunath0007.github.io/)
 
